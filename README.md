@@ -27,14 +27,14 @@ Busco cursar Ciências da Computação, para aprimorar meus conhecimentos obtido
 ## Projetos: ETEC Centro Paula Souza - Itapeva
 Aqui vão alguns dos meus primeiros projetos desenvolvidos durante meu curso de Desenvolvimento de Sistemas. 
 ### meus projetos
-- [Site de Filmes](https://gitlab.com/dev.marcos.h.reis/1j-gb-pw1-2025-site-filmes-marcos.git) 
+- [Site de Filmes](https://github.com/devmarcoshreis-jpg/1j-gb-pw1-2025-site-filmes-marcos) 
 :Um projeto simples que tinha como sua finalidade, entender e usar corretamente as tags de semânticas do HTML, e estiliza-lo posteriormente com o CSS.
 
-- [JO-KEN-PO!](https://gitlab.com/dev.marcos.h.reis/1j-gb-pw1-2025-recuperacao-marcos.git)
+- [JO-KEN-PO!](https://github.com/devmarcoshreis-jpg/1j-gb-pw1-2025-recuperacao-marcos)
 :Um projeto com a finalidade de mostrar as capacidades de cada estudante com a manipulação DOM com JavaScript, além do básico de HTML e CSS.
 
 
-- [América Symphony](https://gitlab.com/dev.marcos.h.reis/2j-revisao.git)
+- [América Symphony](https://github.com/devmarcoshreis-jpg/2j-revisao)
 :Um projeto para relembrar dos conhecimentos obtidos após as férias,e nos introduzir ao trabalho em equipe dentro de um mesmo projeto.
 
 
